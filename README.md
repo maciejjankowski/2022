@@ -2,7 +2,7 @@
 
 # [2022 wiki](https://github.com/maciejjankowski/2022/wiki)
 
-## [[Tools]]
+## Tools
 * [app to fight depression](https://wuju.app/#!/topics/intro)
 * [job is done](https://jobs-done.vercel.app/)
 * [deck](https://docs.google.com/presentation/d/1YtXKCcSfMPr3UzuMENaZnE_kWku4mRnFoiTQ5H9W1u0/view)
@@ -17,6 +17,8 @@
 * [Z Type typing game](https://zty.pe/)
 * [Irish coast sounds](https://mynoise.net/NoiseMachines/windSeaRainNoiseGenerator.php)
 * [lo-fi cafe](https://lofi.co/)
+[[Tools]](https://github.com/maciejjankowski/2022/wiki/tools)
+
 ## Learn
 
 * [NVC](https://www.youtube.com/playlist?list=PLr4ekRTWekfCumxOcwhOVZqZeu9OM3Goz)
