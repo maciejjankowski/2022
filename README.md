@@ -17,6 +17,7 @@
 * [Z Type typing game](https://zty.pe/)
 * [Irish coast sounds](https://mynoise.net/NoiseMachines/windSeaRainNoiseGenerator.php)
 * [lo-fi cafe](https://lofi.co/)
+
 [[Tools]](https://github.com/maciejjankowski/2022/wiki/tools)
 
 ## Learn
